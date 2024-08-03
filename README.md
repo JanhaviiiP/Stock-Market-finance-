@@ -8,6 +8,7 @@ The primary objective of this project is to demonstrate how to leverage statisti
 - Building portfolios that maximize returns for a given level of risk using Modern Portfolio Theory (MPT).
 - Identifying and interpreting stock market anomalies that could impact investment decisions.
 
+
   
 **Overview**
 
@@ -18,6 +19,7 @@ The primary objective of this project is to demonstrate how to leverage statisti
 - The aim is to construct an efficient portfolio using Modern Portfolio Theory (MPT), highlighting the optimal trade-off between risk and return, and to detect anomalies that could signal significant investment opportunities or risks.
 
 
+
 **Technologies Used**
 - Python: Primary programming language for analysis.
   
@@ -26,6 +28,7 @@ The primary objective of this project is to demonstrate how to leverage statisti
 - Matplotlib & Seaborn: For data visualization.
 
 - yfinance: To fetch real-time stock data.
+
 
 
 **Key Features**
@@ -46,16 +49,19 @@ The primary objective of this project is to demonstrate how to leverage statisti
 
 - Interpret these anomalies to understand potential opportunities or risks.
 
+
   
 **Visualization**
 
 Visualizations are included to illustrate:
 
 - Trends in stock prices over time.
-- 
+  
 - Adjusted close prices across different stocks.
   
 - Correlations among stocks to aid in diversification.
+
+
 
 
   
