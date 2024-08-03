@@ -64,6 +64,10 @@ Visualizations are included to illustrate:
 
 
 
+
+
   
 **Conclusion**
+
+
 This notebook provides a comprehensive guide to constructing a well-optimized stock portfolio and detecting anomalies in the market, using robust statistical methods and visualizations. It serves as an educational tool for anyone interested in advanced financial analysis.
