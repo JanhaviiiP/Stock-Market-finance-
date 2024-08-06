@@ -63,6 +63,16 @@ Visualizations are included to illustrate:
 
 
 
+![image](https://github.com/user-attachments/assets/2cc762e5-7d49-43f6-8d85-e664f62d89ed)
+
+**Observation**
+-TCS: Has the highest risk rating at 1.00. It indicates that TCS is the most risky among these stocks, with the most frequent and largest anomalies detected.
+
+-INFY : With a risk rating of around 0.06, INFY appears to be less risky compared to TCS. It indicates fewer or less significant anomalies in its trading data.
+
+-HDFCBANK: Shows a risk rating of 0.00, indicating the least risk among the stocks listed. It suggests that HDFCBANK had the fewest and smallest anomalies in its price and volume data.
+
+-RELIANCE: The NaN value suggests that it did not have detectable anomalies in the period analyzed.
 
 
 
